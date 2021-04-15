@@ -1,0 +1,23 @@
+{
+  "name": "testing_unit_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuszRajek/Testing_Unit_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateuszRajek/Testing_Unit_2/issues"
+  },
+  "homepage": "https://github.com/MateuszRajek/Testing_Unit_2#readme",
+  "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+    "jest": "^26.6.3"
+  }
+}
